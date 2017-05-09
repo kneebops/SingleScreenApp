@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="TextSize">16sp</dimen>
+    <dimen name="buttonPadding">32dp</dimen>
+    <dimen name="logoPadding">16dp</dimen>
+    <dimen name="layoutHeight">0dp</dimen>
+</resources>
